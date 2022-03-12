@@ -46,6 +46,11 @@ body {
   background-image: url("img/icon-phone-header.svg");
 }
 
+.header-telegramm {
+  padding-left: 25px;
+  background-image: url("img/icon-tg-header.svg");
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
@@ -191,4 +196,10 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.footer-tg {
+  padding-left: 30px;
+  background-image: url("img/icon-tg-footer.svg");
+  height:30px;
 }
